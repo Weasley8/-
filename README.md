@@ -1,4 +1,5 @@
 Лабораторная 1
+* Модель-шаблон (IDEF0):
 * [Ссылка на модель PNG](https://github.com/Weasley8/Dmitry.github.io/blob/master/lr1/model.png)
 * [Ссылка на модель RSF](https://github.com/Weasley8/Dmitry.github.io/blob/master/lr1/shablon.rsf)
 * Индивидуальная работа (IDEF0):
